@@ -21,6 +21,96 @@ build a **Todo List App _from scratch_** in **`JavaScript`**.
 
 </div>
 
+Project Information
+
+Todo List Application
+This project is a modified version of the JavaScript Todo List application developed during practical training.
+
+The application allows users to create and manage a task list using a simple web interface. The project demonstrates basic backend and frontend interaction, local data storage, and CRUD operations.
+
+Features
+* Add new tasks
+* View existing tasks
+* Mark tasks as completed
+* Delete tasks
+* Store task data using SQLite database
+* Display completed and active tasks separately
+
+Technologies Used
+* JavaScript
+* Node.js
+* HTML
+* CSS
+* SQLite3
+
+Project Structure
+lib/ (todo-app.js / server.js / database.js / elmish.js)
+/test (screenshots / demo)
+README.md
+index.html
+
+Installation
+Clone repository:
+
+git clone <repository-url>
+
+Open project folder:
+
+cd javascript-todo-list-tutorial
+
+Install dependencies:
+
+npm install
+
+Run application:
+
+node lib/server.js
+
+Open browser:
+
+http://localhost:8000
+
+Application Demonstration
+
+Screenshots of implemented functionality are stored in:
+
+test/screenshots/
+
+Demonstration video:
+
+test/demo/
+
+Implemented Functionality
+Add task
+
+Create new task and save it into database.
+
+View task list
+Display active and completed tasks.
+
+Change task status
+Mark task as completed.
+
+Delete task
+Remove selected task.
+
+Repository
+Repository contains:
+* source code;
+* screenshots;
+* demonstration video;
+* README documentation.
+
+Future Improvements
+Possible future improvements:
+* add user authorization;
+* improve interface design;
+* deploy application online;
+* optimize database interaction.
+
+Author
+Student practical work project.
+
 > Before you continue, try the demo: https://dwyl.github.io/javascript-todo-list-tutorial/ <br />
 
 > Add a few items to the list. Double-click/tap the item to edit it.
