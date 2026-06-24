@@ -1,3 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/kristinaaa16/projects/javascript-todo-list-tutorial/maintainability.svg)](https://qlty.sh/gh/kristinaaa16/projects/javascript-todo-list-tutorial)
+
 <div align="center">
 
 # Todo List App JavaScript Tutorial
